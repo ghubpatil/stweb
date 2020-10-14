@@ -13,6 +13,8 @@
       <link rel="icon" href="images/favicon.png" type="image/x-icon" />
       <!-- Core Stylesheet -->
       <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="./styledividor.css">
+
       <link rel=”stylesheet” href=”css/bootstrap.css”>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <link href="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
@@ -133,9 +135,48 @@
     img {max-width:100%;}
 
 
+    /* .default {
+         border-color: #f44336;
+        color: black;
+        background: white;
+        align:center;
+        width:150px;
+      }
+
+      .default:hover {
+        background: white;
+      } */
+
+      .containerp {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
 
 
 
+.containerp .btn {
+  position: absolute;
+  left: 90%;
+  top:80%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color:white;
+  color: black;
+  font-size: 16px;
+  border-color: #ee3b24;
+
+  width:170px;
+  padding: 16px 30px;
+  cursor: pointer;
+  /* border-radius: 5px; */
+  text-align: center;
+}
+
+.containerp .btn:hover {
+  background-color: black;
+  color: white;
+}
 
 
     </style>
@@ -285,7 +326,7 @@
                       <li><a href="leader.php">Leader</a></li>
                       <li><a href="registration.php">Sign In</a></li>
 
-                      <i class='far fa-user' style='font-size:20px;color:black'></i>
+                      <i class='far fa-user' style='font-size:15px;color:black'></i>
                     </ul>
                       
                     <!--Cart Icon --
@@ -324,7 +365,7 @@
   <ul class="slider-pagi"></ul>
   <div class="slider">
     <div class="slide slide-0 active">
-      <div class="slide__bg"></div>
+      <div class="slide__bg" style=" background-image: url(images/IMPACT11.jpg)"></div>
       <div class="slide__content">
         <svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
           <path class="slide__overlay-path" d="M0,0 150,0 500,405 0,405" />
@@ -337,7 +378,7 @@
       </div>
     </div>
     <div class="slide slide-1 ">
-      <div class="slide__bg"></div>
+      <div class="slide__bg" style=" background-image: url(images/CLIENTS.jpg)"> </div>
       <div class="slide__content">
         <svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
           <path class="slide__overlay-path" d="M0,0 150,0 500,405 0,405" />
@@ -350,7 +391,7 @@
       </div>
     </div>
     <div class="slide slide-2">
-      <div class="slide__bg"></div>
+      <div class="slide__bg" style=" background-image: url(images/sky-through-a-wrought-iron-dome.jpg)"> </div>
       <div class="slide__content">
         <svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
           <path class="slide__overlay-path" d="M0,0 150,0 500,405 0,405" />
@@ -363,7 +404,7 @@
       </div>
     </div>
     <div class="slide slide-3">
-      <div class="slide__bg"></div>
+      <div class="slide__bg" style=" background-image: url(images/man-pointing-at-laptop-screen-analytics.jpg)"></div>
       <div class="slide__content">
         <svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
           <path class="slide__overlay-path" d="M0,0 150,0 500,405 0,405" />
@@ -377,7 +418,7 @@
     </div>
 
     <div class="slide slide-4">
-      <div class="slide__bg"></div>
+      <div class="slide__bg"style=" background-image: url(images/triangle-shaped-architecture.jpg)"></div>
       <div class="slide__content">
         <svg class="slide__overlay" viewBox="0 0 720 405" preserveAspectRatio="xMaxYMax slice">
           <path class="slide__overlay-path" d="M0,0 150,0 500,405 0,405" />
@@ -397,7 +438,8 @@
 <br>
   <P  ALIGN=CENTER><i>"We deliver a single-minded goal while creating an ecosystem in the organization to maximize its potential. "</i></P>
 
-     
+  <!-- <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div> -->
+
       <!-- ##### About Us Area Start ##### -->
       <section class="about-us-area">
         <div class="container">
@@ -408,11 +450,19 @@
               <div class="about-us-content mb-100">
                 <!-- Section Heading -->
                 <div class="section-heading">
-                  <h2><span>KNOW ABOUT</span>  OUR COMPANY </h2>
+                  <h2><span> ABOUT</span> Us </h2>
                   <!-- <img src="images/a.jpg" alt="" width="123px" height:30px> -->
                 </div>
                 <p>The team at SBAL is committed to their core value which is to accelerate a delivery approach that actions “involved consulting”.Our team brings to your business proven experience, expertise, skills and deep involvement to address a wide range of business problems. Our solutions stem from in-depth research and deep rooted analysis that evolves from complex environmental dynamics to a specific business or industry.</p>
-                <a href="#" class="btn famie-btn mt-30">Read More</a>
+                <!-- <a href="#" class="btn famie-btn mt-30"></a> -->
+                <!-- <button class="btn default">Read More</button> -->
+
+</br></br></br></br></br></br>
+                <div class="containerp">
+  <!-- <img src="img_lights.jpg" alt="Snow" style="width:100%"> -->
+  <button class="btn">See More</button>
+</div>
+                
               </div>
             </div>
 
@@ -430,6 +480,7 @@
         </div>
       </section>
       <!-- ##### About Us Area End ##### -->
+      <!-- <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div> -->
 
       <!-- ##### Services Area Start ##### -->
       <section class="services-area d-flex flex-wrap">
@@ -529,6 +580,7 @@
       </section>
       <!-- ##### Services Area End ##### -->
 
+      <!-- <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div> -->
 
       <div class="awesome-portfolio-area fix">
         <div class="container">
@@ -670,8 +722,8 @@
                 <div class="section-heading white text-center">
                   <h2><span>Subscribe With</span>Us</h2>
                 </div>
-                <p class="text-white mb-50 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at diam convallis ligula cursus bibendum sed at enim. Class aptent taciti sociosqu ad litora torquent conubia nostra, per inceptos
-                  himenaeos.</p>
+                <!-- <p class="text-white mb-50 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at diam convallis ligula cursus bibendum sed at enim. Class aptent taciti sociosqu ad litora torquent conubia nostra, per inceptos
+                  himenaeos.</p> -->
               </div>
             </div>
           </div>
@@ -859,86 +911,7 @@
       <!-- ##### Farming Practice Area End ##### -->
 
       <!-- ##### Testimonial Area Start ##### -->
-      <section class="testimonial-area bg-img bg-overlay section-padding-100 jarallax"style="background-image: url('images/bg.jpg">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <!-- Testimonial Slides -->
-              <div class="testimonial-slides owl-carousel">
-
-                <!-- Single Slide -->
-                <div class="single-slide">
-                  <!-- Testimonial Text -->
-                  <div class="testi-text d-flex">
-                    <div class="quote-icon">
-                      <img src="img/core-img/quote.png" alt="">
-                    </div>
-                    <P  ALIGN=CENTER><i>"We deliver a single-minded goal while creating an ecosystem in the organization to maximize its potential. "</i></P>
-
-                  </div>
-                  <!-- Testimonial Thumbnail Name -->
-                  <div class="testimonial-thumbnail-name d-flex align-items-center">
-                    <!-- <div class="testimonial-thumbnail">
-                      <img src="img/bg-img/16.jpg" alt="">
-                    </div> -->
-                    <div class="testimonial-name">
-                      <h5>Mrs Lara Sullivan</h5>
-                      <h6>Customer</h6>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Single Slide -->
-                <div class="single-slide">
-                  <!-- Testimonial Text -->
-                  <div class="testi-text d-flex">
-                    <div class="quote-icon">
-                      <img src="img/core-img/quote.png" alt="">
-                    </div>
-                    <h5>"Thank you for your......."</h5>
-
-                  </div>
-                  <!-- Testimonial Thumbnail Name -->
-                  <div class="testimonial-thumbnail-name d-flex align-items-center">
-                    <!-- <div class="testimonial-thumbnail">
-                      <img src="img/bg-img/16.jpg" alt="">
-                    </div> -->
-                    <div class="testimonial-name">
-                      <h5>Ajoy Das</h5>
-                      <h6>Client</h6>
-                    </div>
-                  </div>
-                </div>
-
-                <!-- Single Slide -->
-                <div class="single-slide">
-                  <!-- Testimonial Text -->
-                  <div class="testi-text d-flex">
-                    <div class="quote-icon">
-                      <img src="img/core-img/quote.png" alt="">
-                    </div>
-                    <h5>"Thank you for your......."</h5>
-
-                  </div>
-                  <!-- Testimonial Thumbnail Name -->
-                  <div class="testimonial-thumbnail-name d-flex align-items-center">
-                    <div class="testimonial-thumbnail">
-                      <img src="img/bg-img/16.jpg" alt="">
-                    </div>
-                    <div class="testimonial-name">
-                      <h5>Akash Khan</h5>
-                      <h6>Customer</h6>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- ##### Testimonial Area End ##### -->
-
+    
       <!-- ##### Contact Area Start ##### -->
       <section class="contact-area bg-gray section-padding-100-0">
     <div class="container">
