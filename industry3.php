@@ -23,27 +23,22 @@
 	<script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
   <link rel="stylesheet" type="text/css" href="../dist/zoomslider.css" />
 	<script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
-
-</head>
-
 <body>
   <!-- Preloader -->
   
-
-  <!-- ##### Header Area Start ##### -->
   <header class="header-area">
-    <!-- Top Header Area -->
-    <div class="top-header-area">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="top-header-content d-flex align-items-center justify-content-between">
-              <!-- Top Header Content -->
-              <div class="top-header-meta">
-                <p>Welcome to <span>Our LLP</span>, we hope you will  have good experience with us</p>
-              </div>
-              <!-- Top Header Content -->
-              <div class="top-header-meta text-right">
+        <!-- Top Header Area -->
+        <div class="top-header-area">
+          <div class="container">
+            <div class="row">
+              <div class="col-12">
+                <div class="top-header-content d-flex align-items-center justify-content-between">
+                  <!-- Top Header Content -->
+                  <div class="top-header-meta">
+                    <p>Welcome to <span>Our LLP</span>, we hope you will  have good experience with us</p>
+                  </div>
+                  <!-- Top Header Content -->
+                  <div class="top-header-meta text-right">
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="infodeercreative@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: response@stratacon.in
 
                     </span></a>
@@ -194,344 +189,187 @@
         </div>
       </header>
       <!-- ##### Header Area End ##### -->
-  <!-- ##### Header Area End ##### -->
 
   <!-- ##### Breadcrumb Area Start ##### -->
-  <div class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url('img/bg-img/indu.jpg');">
+  <div class="breadcrumb-area bg-img bg-overlay jarallax" style="background-image: url('images/in3.jpeg');">
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-12">
           <div class="breadcrumb-text">
-            <h2>Industries</h2>
+            <h2>Power & Electronics</h2>
           </div>
         </div>
       </div>
     </div>
   </div>
-  <div class="famie-breadcrumb">
-    <div class="container">
-      <nav aria-label="breadcrumb">
-        <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Industries</a></li>
-        </ol>
-      </nav>
-    </div>
-  </div>
+  
   <!-- ##### Breadcrumb Area End ##### -->
 
-  <!-- ##### About Us Area Start ##### -->
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
+  <!-- ##### News Details Area Start ##### -->
+  <section class="news-details-area section-padding-0-100">
+    <div class="container" style="text-align:justify " >
+      <div class="row">
+        <div class="col-12">
+          <!-- News Details Content -->
+          <div class="news-details-content">
+           <h4><b>Introduction–</b></h4> 
+            <p style="text-indent:10px">Power electronics is one of the contemporary subjects of electrical engineering which has seen a lot of advancements in recent times and has impacted human life in almost every sphere. We over selves use so many power electronic applications in our daily life, without even realizing t. Now the question stands as, “what is power electronics?”
+<p>
+India enjoys an important position in the global pharmaceuticals sector. The country also has a large pool of scientists and engineers who have the potential to steer the industry ahead to an even higher level. Presently over 80 per cent of the antiretroviral drugs used globally to combat AIDS (Acquired Immune Deficiency Syndrome) are supplied by Indian pharmaceutical firms.</p>
+            <h4><b>Market Size–</b></h4> 
+<p>The global power electronics market size was valued at USD 32.33 billion in 2016. The increasing demand for energy-efficient and battery-powered devices is likely to propel the global market over the forecast period.
 
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="img/bg-img/i1.jpg" style="height:300px" alt="">
-          </div>
-        </div>
+In addition, the urge for enhancing power infrastructure, increasing focus on the usage of renewable energy sources, and growing trend of energy harvesting technologies are the major aspects that are anticipated to catapult the industry growth over the estimated duration.</p>           
+            <div class="row">
+              <div class="col-lg-4">
+              
+<p>Power electronics is solid-state circuitry devices which are used to alter and control electrical energy from the source to the load in an appropriate and effective way. Power electronics enable power management in order to improve energy conservation in a variety of applications such as consumer electronics, automotive, electric automobiles, and industrial systems.
 
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-content mb-100" style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Healthcare </span> &amp; Pharmaceuticals</h2>
-            </div>
-            <p>India is the largest provider of generic drugs globally. Indian pharmaceutical sector industry supplies over 50 per cent of global demand for various vaccines, 40 per cent of generic demand in the US and 25 per cent of all medicine in UK.</p>
-            <a href="industry1.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-  <!-- ##### About Us Area End ##### -->
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Capital projects  </span> &amp; Infrastructure</h2>
-
-            </div><p>Our Infrastructure practice provides consultancy services relating to demand assessment, traffic studies, entry strategies, commercial due diligence, bid advisory and project finance across transportation sectors (roads, ports, airports, railways, logistics, metrorail, BRTS), industrial infrastructure (SEZs, large area developments, commercial development) and tourism.</p>
-            <a href="industry2.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="img/bg-img/i2.jpg"  style="height:300px"  alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="img/bg-img/power.jpg" style="height:300px"  alt="">
-          </div>
-        </div>
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Power  </span> &amp; Electronics</h2>
-
-            </div><p>The global power electronics market size was valued at USD 32.33 billion in 2016. The increasing demand for energy-efficient and battery-powered devices is likely to propel the global market over the forecast period.</p>
-            <a href="industry3.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Media, Telecom  </span> &amp; Entertainment</h2>
-
-            </div><p>Deloitte’s Kevin Westcott joins host Hanish Patel to share his insights on what’s ahead for the telecommunications media & entertainment industry</p>
-            <a href="industry4.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/tele.jpg"  style="height:300px"  alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/cog.jpg" style="height:300px"  alt="">
-          </div>
-        </div>
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Consumer  </span> &amp; Goods</h2>
-
-            </div><p>A final good or consumer good is a commodity that is used by the consumer to satisfy current wants or needs, rather than to produce another good.</p>
-            <a href="industry5.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Retail  </span> &amp; Ecommerce</h2>
+Moreover, power electronics are capable of regulating the energy flow in unidirectional as well as bidirectional means, depending on the application and usage. At present, power electronics are extensively used in renewable energy resources and electric vehicles to enhance the switching speed while avoiding power losses.</p>
 
             </div>
-            <p>The E-commerce market in India is also set to grow at a CAGR of 30% for gross merchandise value to reach $200 bn by 2026, and have a market penetration of 12% compared to 2% currently. India is largely an unorganized retail market, contributing 88% to the total retail sector in India.</p>
-            <a href="industry6.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/ret.jpg"  style="height:300px"  alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <img src="images/travel.jpg" style="height:300px"  alt="">
-          </div>
-        </div>
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-content mb-100">
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Travel Transport </span> &amp; Logistics </h2>
+              <div class="col-lg-8">
+                <img class="w-100 mb-30" src="images/in33.jpg" style="width:600px; height:420px" alt="">
+              </div>        
 
             </div>
-            <p>.....................................................................................................</p>
-            <a href="industry7.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
 
+
+           
+
+            <!-- Famie Blockquote -->
+          
+          
+              
+            </div>
+          </div>
+
+          <!-- Post Author -->
+          
+        </div>
       </div>
     </div>
   </section>
+  <!-- ##### News Details Area End ##### -->
 
-
-
-  <section class="about-us-area">
+  
+  <!-- ##### Contact Information Area Start ##### -->
+  <section class="contact-info-area">
     <div class="container">
-      <div class="row align-items-center">
+      <div class="row">
+        <div class="col-12">
+          <!-- Section Heading -->
+          <div class="section-heading text-center">
+            <h2><span></span> Contact Us For The Help</h2>
+            <img src="img/core-img/decor2.png" alt="">
+          </div>
+        </div>
+      </div>
 
-        <!-- About Us Thumbnail -->
-        
+      <div class="row">
 
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
+        <!-- Single Information Area -->
+        <div class="col-12 col-md-4">
+          <div class="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="100ms">
+            <div class="contact-icon">
+              <i class="icon_pin_alt"></i>
+            </div>
+            <h5>Address</h5>
+            <h6>
+120 Raymond Rd, Gujarat</h6>
+          </div>
+        </div>
+
+        <!-- Single Information Area -->
+        <div class="col-12 col-md-4">
+          <div class="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="500ms">
+            <div class="contact-icon">
+              <i class="icon_phone"></i>
+            </div>
+            <h5>Phone</h5>
+            <h6>+(91)9909941013</h6>
+          </div>
+        </div>
+
+        <!-- Single Information Area -->
+        <div class="col-12 col-md-4">
+          <div class="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="1000ms">
+            <div class="contact-icon">
+              <i class="icon_mail_alt"></i>
+            </div>
+            <h5>Email</h5>
+            <h6>response@stratacon.in</h6>
+          </div>
+        </div>
+
+
+      </div>
+      <div class="c-border"></div>
+    </div>
+  </section>
+  <!-- ##### Contact Information Area End ##### -->
+
+  <!-- ##### Contact Area Start ##### -->
+  <section class="contact-area section-padding-100-0">
+    <div class="container">
+      <div class="row justify-content-between">
+
+        <!-- Contact Content -->
+        <div class="col-12 col-lg-5">
+          <div class="contact-content mb-100">
             <!-- Section Heading -->
             <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>SEM  </span> &amp; Consulting</h2>
-
+              <h2><span>Send</span> Message</h2>
+              <!-- <img src="img/core-img/decor.png" alt=""> -->
             </div>
-            <p>.....................................................................................................</p>
-            <a href="industry8.php" class="btn famie-btn mt-30">Read More</a>
+            <!-- Contact Form Area -->
+            <div class="contact-form-area">
+              <form action="#" method="post">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <input type="text" class="form-control" name="name" placeholder="Your Name">
+                  </div>
+                  <div class="col-lg-6">
+                    <input type="email" class="form-control" name="email" placeholder="Your Email">
+                  </div>
+                  <div class="col-12">
+                    <input type="text" class="form-control" name="subject" placeholder="Your Subject">
+                  </div>
+                  <div class="col-12">
+                    <textarea name="message" class="form-control" cols="30" rows="10" placeholder="Your Message"></textarea>
+                  </div>
+                  <div class="col-12">
+                    <button type="submit" class="btn famie-btn">Send Message</button>
+                  </div>
+                </div>
+              </form>
+            </div>
           </div>
         </div>
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/semc.jpg"  style="height:300px"  alt="">
+
+        <!-- Contact Maps -->
+        <div class="col-lg-6">
+          <div class="contact-maps mb-100">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28313.28917392649!2d-88.2740948914384!3d41.76219337461615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880efa1199df6109%3A0x8a1293b2ae8e0497!2sE+New+York+St%2C+Aurora%2C+IL%2C+USA!5e0!3m2!1sen!2sbd!4v1542893000723"
+              allowfullscreen></iframe>
           </div>
         </div>
       </div>
     </div>
   </section>
-
-
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/s.jpg" style="height:300px"  alt="">
-          </div>
-        </div>
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Start-up </span> &amp; Consulting  </h2>
-
-            </div>
-            <p>.....................................................................................................</p>
-            <a href="industry9.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      <!-- ##### Footer Area Start ##### -->
-      <footer class="footer-area">
+  <!-- ##### Footer Area Start ##### -->
+       <!-- ##### Footer Area Start ##### -->
+       <footer class="footer-area">
         <!-- Main Footer Area -->
         <div class="main-footer bg-img bg-overlay section-padding-80-0" style="background-image: url('images/bgw.jpg">
           <div class="container">
             <div class="row">
 
               <!-- Single Footer Widget Area -->
-              <div class="col-12 col-sm-6 col-lg-3">
+              <div class="col-12 col-sm-6 col-lg-4">
                 <div class="footer-widget mb-80">
                   <a href="index.html" class="foo-logo d-block mb-30"><img src="images/slogo.png"   alt=""></a>
-                  <p>Our company works on multinational level. We believe in quality and standard worldwide.</p>
+                  <p style="text-align:justify">Our company works on multinational level. We believe in quality and standard worldwide.</p>
                   <div class="contact-info">
                     <p><i class="fa fa-map-pin" aria-hidden="true"></i><span>120 Raymond Rd, Gujarat</span></p>
                     <p><i class="fa fa-envelope" aria-hidden="true"></i><span>response@stratacon.in
@@ -545,7 +383,7 @@
               </div>
 
               <!-- Single Footer Widget Area -->
-              <div class="col-12 col-sm-6 col-lg-3">
+              <div class="col-12 col-sm-6 col-lg-4">
                 <div class="footer-widget mb-80">
                   <h5 class="widget-title">QUICK LINK</h5>
                   <!-- Footer Widget Nav -->
@@ -569,37 +407,10 @@
               </div>
 
               <!-- Single Footer Widget Area -->
-              <div class="col-12 col-sm-6 col-lg-3">
-                <div class="footer-widget mb-80">
-                  <h5 class="widget-title">RECENT NEWS</h5>
-
-                  <!-- Single Recent News Start -->
-                  <div class="single-recent-blog d-flex align-items-center">
-                    <div class="post-thumbnail">
-                      <img src="images/contact-girl1.gif" alt="">
-                    </div>
-                    <div class="post-content">
-                      <a href="#" class="post-title">WA’s largest international business on the market</a>
-                      <div class="post-date">18 Aug 2018</div>
-                    </div>
-                  </div>
-
-                  <!-- Single Recent News Start -->
-                  <div class="single-recent-blog d-flex align-items-center">
-                    <div class="post-thumbnail">
-                      <img src="images/business-animated-gif-11.gif"  alt="">
-                    </div>
-                    <div class="post-content">
-                      <a href="#" class="post-title">Beef retail hit a record</a>
-                      <div class="post-date">18 Aug 2018</div>
-                    </div>
-                  </div>
-
-                </div>
-              </div>
+              
 
               <!-- Single Footer Widget Area -->
-              <div class="col-12 col-sm-6 col-lg-3">
+              <div class="col-12 col-sm-6 col-lg-4">
                 <div class="footer-widget mb-80">
                   <h5 class="widget-title">STAY CONNECTED</h5>
                   <!-- Footer Social Info -->
@@ -692,7 +503,8 @@
       <script src="https://cdn.jsdelivr.net/jquery.mixitup/latest/jquery.mixitup.min.js"></script>
 
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-    
+  
+      
     </body>
 
 </html>
