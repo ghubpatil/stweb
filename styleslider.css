@@ -1,6 +1,6 @@
 @font-face {
   src: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/polar.otf");
-  font-family: "Karla", sans-serif;
+  font-family: "Tiempos",Georgia,serif;
 }
 *, *:before, *:after {
   box-sizing: border-box;
@@ -10,13 +10,12 @@
 
 html, body {
   font-size: 62.5%;
-  height: 100%;
+  height:60%;
   overflow: visible;
 }
 
 body {
-  cursor: all-scroll;
-
+  background:white;
 }
 
 svg {
@@ -26,7 +25,7 @@ svg {
 
 .slider-container {
   position: relative;
-  height: 70%;
+  height: 60%;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -65,7 +64,7 @@ svg {
 
 .slider-pagi {
   position: absolute;
-  z-index: 4;
+  z-index: 3;
   left: 50%;
   bottom: 2rem;
   -webkit-transform: translateX(-50%);
@@ -108,7 +107,7 @@ svg {
 .slider {
   z-index: 1;
   position: relative;
-  height: 100%;
+  height: 40%;
 }
 .slider.animating {
   -webkit-transition: -webkit-transform 0.5s;
@@ -131,7 +130,6 @@ svg {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  
 }
 .slide.active .slide__overlay,
 .slide.active .slide__text {
@@ -153,7 +151,7 @@ svg {
 }
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/3d-slider-3.jpg");
+  /* background-image: url("images/IMPACT11.jpg"); */
 }
 .slide:nth-child(1) .slide__overlay-path {
   fill: #e99c7e;
@@ -168,14 +166,14 @@ svg {
 }
 .slide:nth-child(2) .slide__bg {
   left: -50%;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/3d-slider-2.jpg");
+  /* background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/3d-slider-2.jpg"); */
 }
 .slide:nth-child(2) .slide__overlay-path {
-  fill: #e1ccae;
+  fill: #adc5cd;
 }
 @media (max-width: 991px) {
   .slide:nth-child(2) .slide__text {
-    background-color: rgba(225, 204, 174, 0.8);
+    background-color: #adc5cd;
   }
 }
 .slide:nth-child(3) {
@@ -183,7 +181,7 @@ svg {
 }
 .slide:nth-child(3) .slide__bg {
   left: -100%;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/3d-slider-1.jpg");
+  /* background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/3d-slider-1.jpg"); */
 }
 .slide:nth-child(3) .slide__overlay-path {
   fill: #adc5cd;
@@ -198,7 +196,7 @@ svg {
 }
 .slide:nth-child(4) .slide__bg {
   left: -150%;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/3d-slider-4.jpg");
+  /* background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/3d-slider-4.jpg"); */
 }
 .slide:nth-child(4) .slide__overlay-path {
   fill: #cbc6c3;
@@ -206,6 +204,23 @@ svg {
 @media (max-width: 991px) {
   .slide:nth-child(4) .slide__text {
     background-color: rgba(203, 198, 195, 0.8);
+  }
+}
+
+
+.slide:nth-child(5) {
+  left: 400%;
+}
+.slide:nth-child(5) .slide__bg {
+  left: -200%;
+  /* background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"); */
+}
+.slide:nth-child(5) .slide__overlay-path {
+  fill: #e99c7e;
+}
+@media (max-width: 991px) {
+  .slide:nth-child(5) .slide__text {
+    background-color: rgba(233, 156, 126, 0.8);
   }
 }
 .slide__content {
@@ -328,4 +343,42 @@ svg {
 .slide__text-link:hover:before {
   -webkit-transform: rotateX(0);
           transform: rotateX(0);
+}
+.astrodivider {
+  margin:64px auto;
+  width:500px; 
+  max-width: 100%;
+  position:relative;
+}
+
+.astrodividermask { 
+    overflow:hidden; height:20px; 
+}
+
+.astrodividermask:after { 
+      content:''; 
+      display:block; margin:-25px auto 0;
+      width:100%; height:25px;  
+        border-radius:125px / 12px;
+       box-shadow:0 0 8px #049372;
+}
+.astrodivider span {
+    width:50px; height:50px; 
+    position:absolute; 
+    bottom:100%; margin-bottom:-25px;
+    left:50%; margin-left:-25px;
+    border-radius:100%;
+   box-shadow:0 2px 4px #4fb39c;
+    background:#fff;
+}
+.astrodivider i {
+    position:absolute;
+    top:4px; bottom:4px;
+    left:4px; right:4px;
+    border-radius:100%;
+    border:1px dashed #68beaa;
+    text-align:center;
+    line-height:40px;
+    font-style:normal;
+     color:#049372;
 }
