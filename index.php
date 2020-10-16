@@ -557,8 +557,8 @@
                   <!-- Service Title -->
                   <div class="service-title mb-3 d-flex align-items-center">
                     <img src="images/pin.png" alt="" style="height:30px ; width:32px" >
-                    <h5>Our Locations</h5><p>Ahmedabad, Singapore, Dubai, London and Canada</p>
-                  </div>
+                    <h5>Our Locations</h5>
+                  </div><p>Ahmedabad, Singapore, Dubai, London and Canada</p>
                 </div>
               </div>
 
