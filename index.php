@@ -211,7 +211,7 @@
                     <a href="#" data-toggle="tooltip" data-placement="bottom" title="infodeercreative@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: response@stratacon.in
 
                     </span></a>
-                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="+(91)9909941013"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +(91)9909941013</span></a>
+                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="+(91)9909941013"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +91 79 4911 4911</span></a>
                   </div>
                 </div>
               </div>
