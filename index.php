@@ -208,10 +208,10 @@
                   </div>
                   <!-- Top Header Content -->
                   <div class="top-header-meta text-right">
-                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="response@stratacon.in"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: response@stratacon.in
+                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="infodeercreative@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: response@stratacon.in
 
                     </span></a>
-                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="+91 79 4911 4911"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +91 79 4911 4911</span></a>
+                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="+(91)9909941013"><i class="fa fa-phone" aria-hidden="true"></i> <span>Call Us: +(91)9909941013</span></a>
                   </div>
                 </div>
               </div>
@@ -450,17 +450,17 @@
               <div class="about-us-content mb-100">
                 <!-- Section Heading -->
                 <div class="section-heading">
-                  <h2><span> At </span>Stratacon </h2>
+                  <h2><span> ABOUT</span> Us </h2>
                   <!-- <img src="images/a.jpg" alt="" width="123px" height:30px> -->
                 </div>
-                <p>The SBAL team is committed to helping you achieve your goals. We believe in practicing a 360 degree engagement that speeds up the process and provides a deep rooted change visible in your bottom line growth. Our team brings proven frameworks, experience, expertise and skills to address a wide range of business challenges. Our solutions stem from in-depth research and deep rooted analysis that evolves from complex environmental dynamics to a specific business or industry.</p>
+                <p>The team at SBAL is committed to their core value which is to accelerate a delivery approach that actions “involved consulting”.Our team brings to your business proven experience, expertise, skills and deep involvement to address a wide range of business problems. Our solutions stem from in-depth research and deep rooted analysis that evolves from complex environmental dynamics to a specific business or industry.</p>
                 <!-- <a href="#" class="btn famie-btn mt-30"></a> -->
                 <!-- <button class="btn default">Read More</button> -->
 
 </br></br></br></br></br></br>
                 <div class="containerp">
   <!-- <img src="img_lights.jpg" alt="Snow" style="width:100%"> -->
-  <a><button  href="about.php" class="btn">See More</button></a>
+  <button class="btn">See More</button>
 </div>
                 
               </div>
@@ -494,7 +494,8 @@
               <div class="col-12">
                 <!-- Section Heading -->
                 <div class="section-heading">
-                  <h2><span>What</span> We do</h2>
+                  <p>What we do</p>
+                  <h2><span>Our SBAL Edge</span> Is Mainstay For Us</h2>
                   <!-- <img src="img/core-img/decor.png" alt=""> -->
                 </div>
               </div>
@@ -502,7 +503,7 @@
 
             <div class="row">
               <div class="col-12 mb-50">
-                <p style="text-indent:8px">We believe in creating a lasting difference to our clients by driving for quantum improvements and not for incremental change. Our consultants and partners help you uncover values that are inherent in the organization and that you can optimize to enhance offerings to your customers or implement better processes to manage your customers. Creating momentum in an organization is key for speed of realizing outcomes from changes implemented and therefore our focus is to create that momentum through interventions, automation and analytics.</p>
+                <p style="text-indent:8px">The team at SBAL is committed to their core value which is to accelerate a delivery approach that actions “involved consulting”.Our team brings to your business proven experience, expertise, skills and deep involvement to address a wide range of business problems. Our solutions stem from in-depth research and deep rooted analysis that evolves from complex environmental dynamics to a specific business or industy .</p>
               </div>
 
               <!-- Single Service Area -->
@@ -558,7 +559,7 @@
                   <div class="service-title mb-3 d-flex align-items-center">
                     <img src="images/pin.png" alt="" style="height:30px ; width:32px" >
                     <h5>Our Locations</h5>
-                  </div><p>Ahmedabad, Singapore, Dubai, London and Canada</p>
+                  </div>
                 </div>
               </div>
 
