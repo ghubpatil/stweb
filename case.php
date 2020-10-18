@@ -13,8 +13,6 @@
       <link rel="icon" href="images/favicon.png" type="image/x-icon" />
       <!-- Core Stylesheet -->
       <link rel="stylesheet" href="style.css">
-      <link rel="stylesheet" href="./styledividor.css">
-
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel="stylesheet" href="./stylecase.css">
 
@@ -217,314 +215,156 @@
     <ul>
       <li><a href="#section1"> Retail</a></li>
       <li><a href="#section2">Government</a></li>
-      <li><a href="#section3">EMERGING TECHNOLOGY</a></li>
-      <li><a href="#section4">Market Analysis </a></li>
-      <li><a href="#section5">Expansion Planning</a></li>
-      <li><a href="#section6">Business Transformation</a></li>
-      <li><a href="#section7">Consumer Goods</a></li>
-
+      <li><a href="#section3">Marketing</a></li>
+      <li><a href="#section4">EMERGING TECHNOLOGY</a></li>
+      <li><a href="#section4">Consumer Goods</a></li>
       
 
     </ul>
-    <section id="section1">      <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
-
-              <div class="row">
-                          <div class="col-md-12 heading text-center">
-                            <h2 class="title2"> Luxury Home Decor Retail
-                            </h2>
-                          
-                        </div>
+    <section id="section1">
+    <div class="row">
+								<div class="col-md-12 heading text-center">
+									<h2 class="title2">About Our Client Story
+									</h2>
+									<div class="col-md-6 ts-padding">
+										  <form method="get" action="files/sme-empowering-performance.pdf">
+											<button type="submit" style="position: relative;
+											margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
+										 </form>
+									  </div>
+                                </div>
                                 
 
                                 
-             </div><!-- Title row end -->
-                            
-            <div class="row about-wrapper-top" id="id1">
-            <div class="col-md-6 ts-padding about-message">
-                      <h5><b>PLANNING</b></h5><p style="text-align:justify; text-indent:5%">An Apparel Retail Company Was Planning To Launch A High End Ultra Luxury Home Décor Business In India.</p>
-                      <h5><b> APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">We Delivered A Ground Up Strategy And Support Framework For Marketing Implementation. Including Business Plan, Strategy, Brand Tie Ups, Organization Design, HR Strategy And Retail Model Implementation. We Also Played A Key Role In Enhancing The Sales Strategy, Customer Interaction Process And Order Flows Creating A Sequential Process For The Organization To Map Efficiencies And Deliver Robust ROI’s.</p>
-                      <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">Successful Launch And Excellent Pan India Traction. They Have Become The First Choice For Architects.</p>
-                      <!-- <div class="col-md-6 ts-padding">
-                            <form method="get" action="files/sme-empowering-performance.pdf">
-                            <button type="submit" style="position: relative;
-                            margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
-                          </form>
-                          </div>
-           -->
-          
-              </div>
-            
-      
-                    <!--/ About message end -->
-                    <div class="col-md-6 ts-padding about-img"
-                      style="height:374px;background:url(images/pages/case1.jpg) 50% 50% / cover no-repeat;">
-                    </div>
-                    <!--/ About image end -->
-                  </div>
-  </section>
-
-
-
-    <section id="section2"><div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
-          <div class="row">
-                      <div class="col-md-12 heading text-center">
-                        <h2 class="title2"> Project Management Government
-                        </h2>
-                        
-                                      </div>
-                                      
-
-                                      
                             </div><!-- Title row end -->
                             
-                                        <div class="row about-wrapper-top" id="id1">
-                  <div class="col-md-6 ts-padding about-message">
-                            <h5><b>PLANNING</b></h5><p style="text-align:justify; text-indent:5%">A State Govt. Initiated An Overhaul In Its Food And Civil Supplies Department By Automating The Fair Price Shops.</p>
-                            <h5><b>APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">We Were Engaged In Enabling The System Integrator In The Process Of Supply, Installation And Maintenance Of The Biometric And Iris Enabled POS Devices. This Entails Complete Project Management And Tracking, Sourcing And Logistics Strategy, Training And Enablement, Mobilization Of Resources, IT And Software Support.</p>
-                            <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">Successful Project With 100% Criteria Adherence. Commencement.</p>
-                
-                            <!-- <div class="col-md-6 ts-padding">
-                                  <form method="get" action="files/sme-empowering-performance.pdf">
-                                  <button type="submit" style="position: relative;
-                                  margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
-                                </form>
-                                </div>
-                 -->
-                          </div>
+                            <div class="row about-wrapper-top" id="id1">
+			<div class="col-md-6 ts-padding about-message">
+                <h3 style="text-align: center">LUXURY HOME DÉCOR RETAIL</h3></br>
+                <h5><b>THE REASON</b></h5><p style="text-align:justify; text-indent:5%">An Apparel Retail Company Was Planning To Launch A High End Ultra Luxury Home Décor Business In India.</p>
+                <h5><b>THE APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">We Delivered A Ground Up Strategy And Support Framework For Marketing Implementation. Including Business Plan, Strategy, Brand Tie Ups, Organization Design, HR Strategy And Retail Model Implementation. We Also Played A Key Role In Enhancing The Sales Strategy, Customer Interaction Process And Order Flows Creating A Sequential Process For The Organization To Map Efficiencies And Deliver Robust ROI’s.</p>
+                <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">Successful Launch And Excellent Pan India Traction. They Have Become The First Choice For Architects.</p>
+			</div>
 			<!--/ About message end -->
-                    <div class="col-md-6 ts-padding about-img"
-                      style="height:374px;background:url(images/gov.jpg) 50% 50% / cover no-repeat;">
-                    </div>
-                    <!--/ About image end -->
-                  </div>
-    </section>
-
-    
-    <section id="section3">     <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
-
-<div class="row">
-            <div class="col-md-12 heading text-center">
-              <h2 class="title2">Emerging Technology
-
-              </h2>
-            
-          </div>
-                  
-
-                  
-</div><!-- Title row end -->
-              
-<div class="row about-wrapper-top" id="id1">
-<div class="col-md-6 ts-padding about-message">
-        <h5><b>PLANNING</b></h5><p style="text-align:justify; text-indent:5%">A software development company was looking to venture into the IoT space. With heightened price erosion in the software development industry the client needed a new focus for growth. </p>
-        <h5><b>APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">
-Our engagement began with a comprehensive environmental scan and evaluating the capability requirement to venture into the IoT space. Following a rigorous planning process a strategic direction was carved with goals, strategies, initiatives, timetables and accountability structures that could help the company achieve its goal.  </p>
-
-        <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">Successful launch and in over a year now the IoT vertical is their leading revenue driver. </p>
-        <!-- <div class="col-md-6 ts-padding">
-              <form method="get" action="files/sme-empowering-performance.pdf">
-              <button type="submit" style="position: relative;
-              margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
-            </form>
-            </div> -->
-
-
-</div>
-
-
-      <!--/ About message end -->
-      <div class="col-md-6 ts-padding about-img"
-        style="height:374px;background:url(images/em.jpg) 50% 50% / cover no-repeat;">
-      </div>
-      <!--/ About image end -->
-    </div>
-</section>
-
-
-
-
-
-
-    <section id="section4"><div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
-                  <div class="row">
-                              <div class="col-md-12 heading text-center">
-                              <h2 class="title2">Market Analysis and Country Entry Strategy</h2>
-                               
-                                              </div>
-                                              
-
-                                              
-                                          </div><!-- Title row end -->
-                                          
-                                          <div class="row about-wrapper-top" id="id1">
-                    <div class="col-md-6 ts-padding about-message">
-                              <h5><b>PLANNING</b></h5><p style="text-align:justify; text-indent:5%">A Large Decorative Paints Company In China Was Evaluating The Potential To Enter The Vietnamese Market.</p>
-                              <h5><b>APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">A Detailed Market Analysis Of The Vietnamese Market Using Both Primary And Secondary Research Modes To Ensure Accuracy And Verified Data. A Comprehensive Study Of Market Potential, Size, Competitors, Customers, Costs, Localization Challenges, Regulations And Existing Sales Channels. A Detailed Strategy Plan Was Drawn Out Based On The Insights And A Thorough Gap Analysis Was Conducted.</p>
-                              <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">The outcome of the research analysis and detailed strategy plan resulted in the company deciding to postpone plans to enter Vietnam based on the lack of capabilities required to pursue a successful market expansion plan.</p>
-                              <!-- <div class="col-md-6 ts-padding">
-                            <form method="get" action="files/sme-empowering-performance.pdf">
-                            <button type="submit" style="position: relative;
-                            margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
-                          </form>
-                          </div> -->
-          
-                   
-                   
-                    </div>
-                    <!--/ About message end -->
-                    <div class="col-md-6 ts-padding about-img"
-                      style="height:374px;background:url(images/pages/inter.jpg) 50% 50% / cover no-repeat;">
-                    </div>
-                    <!--/ About image end -->
-                  </div>
+			<div class="col-md-6 ts-padding about-img"
+				style="height:374px;background:url(images/pages/case1.jpg) 50% 50% / cover no-repeat;">
+			</div>
+			<!--/ About image end -->
+		</div>
     </section>
 
 
 
-
-
-    <section id="section5">      <div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
-
-<div class="row">
-            <div class="col-md-12 heading text-center">
-              <h2 class="title2">Expansion Planning
-
-              </h2>
-            
-          </div>
-                  
-
-                  
-</div><!-- Title row end -->
-              
-<div class="row about-wrapper-top" id="id1">
-<div class="col-md-6 ts-padding about-message">
-        <h5><b>PLANNING</b></h5><p style="text-align:justify; text-indent:5%">A client based out of Malaysia was interested in expanding into the SEA market for Influencer marketing services. Stratacon was engaged to evaluate and shortlist the most attractive markets and create a road map to entering these markets.  </p>
-        <h5><b>APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">
-                  The process included a thorough evaluation of these markets in terms of potential and an internal analysis of the organization on its preparedness to handle increased presence. 
-          A shortlisting of the markets was conducted through research exercises and a gap analysis was conducted for the organization on the key capabilities to be strengthened to attain the objectives from the expansion. 
-           </p>
-
-        <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">A mutually agreed final road map was drawn out to execute the objectives.   </p>
-        <!-- <div class="col-md-6 ts-padding">
-              <form method="get" action="files/sme-empowering-performance.pdf">
-              <button type="submit" style="position: relative;
-              margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
-            </form>
-            </div> -->
-
-
-</div>
-
-
-      <!--/ About message end -->
-      <div class="col-md-6 ts-padding about-img"
-        style="height:374px;background:url(images/expn.jpg) 50% 50% / cover no-repeat;">
-      </div>
-      <!--/ About image end -->
-    </div>
-</section>
-
-
-
-
-
-
-
-
-
-
-    <section id="section6"><div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
-                  <div class="row">
-                              <div class="col-md-12 heading text-center">
-                                <h2 class="title2">Business Transformation
-
-                                </h2>
+    <section id="section2">
+    <div class="row">
+								<div class="col-md-12 heading text-center">
+									<h2 class="title2">PROJECT MANAGEMENT GOVERNMENT
+									</h2>
+									<div class="col-md-6 ts-padding">
+										  <form method="get" action="files/sme-empowering-performance.pdf">
+											<button type="submit" style="position: relative;
+											margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
+										 </form>
+									  </div>
+                                </div>
                                 
-                                              </div>
-                                              
 
-                                              
-                                          </div><!-- Title row end -->
-                                          
-                                          <div class="row about-wrapper-top" id="id1">
-                    <div class="col-md-6 ts-padding about-message">
-                              <h5><b>PLANNING</b></h5><p style="text-align:justify; text-indent:5%">A Singapore based luxury footwear brand wanted to enter the online market with semi-luxury online customized sneakers. </p>
-                              <h5><b>APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">We were engaged to study the USA, Middle East & Asia for market demand, competitive situation, customer analysis and market potential. 
-                              We executed a primary and secondary research to understand these markets, the drivers and the adaptability of end users to embrace an online based self customized footwear product offering. The study included an in depth market attractiveness study, identified the key success factors along with a quantified probability of success. </p>
-                              <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">A product was born enabling customers to customize their very own one-of-a-kind sneaker. With over 5 sextillion design permutations available.</p>
-                              <!-- <div class="col-md-6 ts-padding">
-                            <form method="get" action="files/sme-empowering-performance.pdf">
-                            <button type="submit" style="position: relative;
-                            margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
-                          </form>
-                          </div>
-           -->
-                  
-                  
-                  
-                    </div>
-                    <!--/ About message end -->
-                    <div class="col-md-6 ts-padding about-img"
-                      style="height:374px;background:url(images/bu.jpg) 50% 50% / cover no-repeat;">
-                    </div>
-                    <!--/ About image end -->
-                  </div>
+                                
+                            </div><!-- Title row end -->
+                            
+                            <div class="row about-wrapper-top" id="id1">
+			<div class="col-md-6 ts-padding about-message">
+                <h3 style="text-align: center">PROJECT MANAGEMENT GOVERNMENT</h3></br>
+                <h5><b>THE REASON</b></h5><p style="text-align:justify; text-indent:5%">A State Govt. Initiated An Overhaul In Its Food And Civil Supplies Department By Automating The Fair Price Shops.</p>
+                <h5><b>THE APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">We Were Engaged In Enabling The System Integrator In The Process Of Supply, Installation And Maintenance Of The Biometric And Iris Enabled POS Devices. This Entails Complete Project Management And Tracking, Sourcing And Logistics Strategy, Training And Enablement, Mobilization Of Resources, IT And Software Support.</p>
+                <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">Successful Project With 100% Criteria Adherence. Commencement.</p>
+			</div>
+			<!--/ About message end -->
+			<div class="col-md-6 ts-padding about-img"
+				style="height:374px;background:url(images/pages/go.jpg) 50% 50% / cover no-repeat;">
+			</div>
+			<!--/ About image end -->
+		</div>
     </section>
+    
 
 
+    <section id="section3">
+    <div class="row">
+								<div class="col-md-12 heading text-center">
+									<h2 class="title2">MARKET ANALYSIS AND COUNTRY ENTRY STRATEGY
+									</h2>
+									<div class="col-md-6 ts-padding">
+										  <form method="get" action="files/sme-empowering-performance.pdf">
+											<button type="submit" style="position: relative;
+											margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
+										 </form>
+									  </div>
+                                </div>
+                                
+
+                                
+                            </div><!-- Title row end -->
+                            
+                            <div class="row about-wrapper-top" id="id1">
+			<div class="col-md-6 ts-padding about-message">
+                <h3 style="text-align: center">MARKET ANALYSIS AND COUNTRY ENTRY STRATEGY</h3></br>
+                <h5><b>THE REASON</b></h5><p style="text-align:justify; text-indent:5%">A Large Decorative Paints Company In China Was Evaluating The Potential To Enter The Vietnamese Market.</p>
+                <h5><b>THE APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">A Detailed Market Analysis Of The Vietnamese Market Using Both Primary And Secondary Research Modes To Ensure Accuracy And Verified Data. A Comprehensive Study Of Market Potential, Size, Competitors, Customers, Costs, Localization Challenges, Regulations And Existing Sales Channels. A Detailed Strategy Plan Was Drawn Out Based On The Insights And A Thorough Gap Analysis Was Conducted.</p>
+                <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">A Detailed Market Analysis Of The Vietnamese Market Using Both Primary And Secondary Research Modes To Ensure Accuracy And Verified Data. A Comprehensive Study Of Market Potential, Size, Competitors, Customers, Costs, Localization Challenges, Regulations And Existing Sales Channels. A Detailed Strategy Plan Was Drawn Out Based On The Insights And A Thorough Gap Analysis Was Conducted.</p>
+			</div>
+			<!--/ About message end -->
+			<div class="col-md-6 ts-padding about-img"
+				style="height:374px;background:url(images/pages/inter.jpg) 50% 50% / cover no-repeat;">
+			</div>
+			<!--/ About image end -->
+		</div>
+    </section>
+    <section id="section4">
+    <div class="row">
+								<div class="col-md-12 heading text-center">
+									<h2 class="title2">Consumer Goods
 
 
+									</h2>
+									<div class="col-md-6 ts-padding">
+										  <form method="get" action="files/sme-empowering-performance.pdf">
+											<button type="submit" style="position: relative;
+											margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
+										 </form>
+									  </div>
+                                </div>
+                                
 
-
-    <section id="section7"><div class="astrodivider"><div class="astrodividermask"></div><span><i>&#10038;</i></span></div>
-                <div class="row">
-                            <div class="col-md-12 heading text-center">
-                              <h2 class="title2">Consumer Goods
-
-
-                              </h2>
-                              
-                                            </div>
-                                            
-
-                                            
-                                        </div><!-- Title row end -->
-                                        
-                                        <div class="row about-wrapper-top" id="id1">
-                  <div class="col-md-6 ts-padding about-message">
-                            <h5><b>PLANNING</b></h5><p style="text-align:justify; text-indent:5%">
-                                A company that was into manufacturing and retailing of consumer goods was interested in transforming for optimization after estimating an opportunity to expand its reach in new geographies.</p>
-                                                <h5><b> APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">We were engaged to address this challenge and craft the way for expansion and performance improvement. The initial analysis resulted in identifying core issues faced by the company which was fragmented, subscale network, manual batch processes, and a complex product portfolio.
-                                Stratacon immediately remedied the current state by working on its four core areas Consumer experience, profitability, category mix and marketing strategy.
-                                </p>
-                            <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">Developed a road map with these changes to move into highly potential markets both national and international.</p>
-                            <!-- <div class="col-md-6 ts-padding">
-                            <form method="get" action="files/sme-empowering-performance.pdf">
-                            <button type="submit" style="position: relative;
-                            margin: 10px; left: 52%;" class="animated4 slider btn btn-primary btn-min-block solid">Download PDF</button>
-                          </form>
-                          </div> -->
-          
-                 
-                 
-                  </div>
-                  <!--/ About message end -->
-                  <div class="col-md-6 ts-padding about-img"
-                    style="height:374px;background:url(images/Pages/good.jpg) 50% 50% / cover no-repeat;">
-                  </div>
-                  <!--/ About image end -->
-                </div>
+                                
+                            </div><!-- Title row end -->
+                            
+                            <div class="row about-wrapper-top" id="id1">
+			<div class="col-md-6 ts-padding about-message">
+                <h3 style="text-align: center">Consumer Goods</h3></br>
+                <h5><b>THE REASON</b></h5><p style="text-align:justify; text-indent:5%">
+A company that was into manufacturing and retailing of consumer goods was interested in transforming for optimization after estimating an opportunity to expand its reach in new geographies.</p>
+                <h5><b>THE APPROACH</b></h5>	<p style="text-align:justify; text-indent:5%">We were engaged to address this challenge and craft the way for expansion and performance improvement. The initial analysis resulted in identifying core issues faced by the company which was fragmented, subscale network, manual batch processes, and a complex product portfolio.
+Stratacon immediately remedied the current state by working on its four core areas Consumer experience, profitability, category mix and marketing strategy.
+ </p>
+                <h5><b>RESULTS</b></h5><p style="text-align:justify; text-indent:5%">Developed a road map with these changes to move into highly potential markets both national and international.</p>
+			</div>
+			<!--/ About message end -->
+			<div class="col-md-6 ts-padding about-img"
+				style="height:374px;background:url(images/Pages/good.jpg) 50% 50% / cover no-repeat;">
+			</div>
+			<!--/ About image end -->
+		</div>
     </section>
    
-            </div>
+  </div>
 
 
 
 
 
 
-          </div>
+</div>
 </section>
 
 

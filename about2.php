@@ -265,7 +265,7 @@
 
 		<div class="row about-wrapper-bottom" style="text-align:justify" id="id2">
 			<div class="col-md-6 ts-padding about-img"
-				style="height:0px;background:url(images/pages/WhoWeAre1.jpeg) 50% 50% / cover no-repeat;">
+				style="height:880px;background:url(images/pages/WhoWeAre1.jpeg) 50% 50% / cover no-repeat;">
 			</div>
 			<!--/ About image end -->
 			<div class="col-md-6 ts-padding about-message">
@@ -343,7 +343,7 @@
 					</div>
 					<!--/ About message end -->
 					<div class="col-md-6 ts-padding about-img"
-						style="height:520px;background:url(images/pages/comm.jpg) 50% 50% / cover no-repeat;">
+						style="height:500px;background:url(images/pages/comm.jpg) 50% 50% / cover no-repeat;">
 					</div>
 				</div>
 				
@@ -437,7 +437,7 @@
 					
 					         </div>
 							 <div class="col-md-6 ts-padding about-img"
-							 style="height:640px;background:url(images/Pages/ed.jpg) 50% 50% / cover no-repeat;">
+							 style="height:620px;background:url(images/Pages/ed.jpg) 50% 50% / cover no-repeat;">
 						 </div>
 						</div>
 		<!--/ Content row end -->
@@ -455,7 +455,8 @@
 						<!-- post image end -->
 						<div class="post-header clearfix">
 							<h2 class="post-title">
-								OUR APPROACH 							</h2>
+								OUR APPROACH !
+							</h2>
 							
 						</div><!-- post heading end -->
 						<div class="entry-content">
@@ -493,7 +494,7 @@
 							<!-- post image end -->
 							<div class="post-header clearfix">
 								<h2 class="post-title">
-									OUR PROCESS 
+									OUR PROCESS !
 								</h2>
 								
 							</div><!-- post heading end -->
