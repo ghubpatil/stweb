@@ -246,14 +246,7 @@
 
 
             <!-- Famie Blockquote -->
-            <blockquote class="famie-blockquote d-flex">
-              <div class="quote-icon pt-2">
-                <img src="img/core-img/quote.png" alt="">
-              </div>
-              <div class="quote-text">
-                <h5>"........................"</h5>
-              </div>
-            </blockquote>
+           
 
            
           
@@ -269,6 +262,178 @@
   </section>
   <!-- ##### News Details Area End ##### -->
 
+  
+  <!-- ##### Contact Information Area Start ##### -->
+ 
+
+  <!-- ##### Our Products Area Start ##### -->
+  <section class="our-products-area section-padding-40">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <!-- Section Heading -->
+          <div class="section-heading text-center">
+            <h2><span>Featured</span> Insights</h2>
+            <img src="img/core-img/decor2.png" alt="">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <!-- Single Product Area -->
+        <div class="col-12 col-sm-6 ">
+          <div class="single-product-area mb-50">
+            <!-- Product Thumbnail -->
+            <div class="product-thumbnail">
+              <img src="images/navi3.jpg" style="height:320px" alt="">
+
+              <!-- Product Tags -->
+              <!-- Product Meta Data -->
+              
+            </div>
+            <!-- Product Description -->
+            <div class="product-desc text-center pt-4">
+              <a href="navi.php" class="product-title">Navigation Complexities</a>
+              <p>The World Wide Web is a great leveller of sorts. It has destroyed entry barriers crushed bargaining powers and established a new barrier – Adaptive Inclination. Most consumer driven industries are clinically impacted, some are struggling while others are adapting to the new rules of instant gratification. </p>
+            </div>
+          </div>
+        </div>
+
+        
+        <!-- Single Product Area -->
+        <div class="col-12 col-sm-6 ">
+          <div class="single-product-area mb-50">
+            <!-- Product Thumbnail -->
+            <div class="product-thumbnail">
+            <img src="images/sem.jpg" style="height:320px" alt="">
+              <!-- Product Meta Data -->
+              
+            </div>
+            <!-- Product Description -->
+            <div class="product-desc text-center pt-4">
+              <a href="sem.php" class="product-title"> Business Intelligence </a><p>Working with SMEs is challenging and exhilarating at the same time. The complexities in small businesses are almost survival. The battle being waged is both in winning work as well as in delivering it. The main agenda for SME owners is to pack in more work in a single day,</p>
+            </div>
+          </div>
+        </div>
+
+       
+
+      </div>
+
+      <div class="row">
+        <div class="col-12">
+          <div class="gotoshop-btn text-center">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+  <!-- ##### Contact Information Area Start ##### -->
+  <section class="contact-info-area">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <!-- Section Heading -->
+          <div class="section-heading text-center">
+            <h2><span></span> Contact Us</h2>
+            <img src="img/core-img/decor2.png" alt="">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+
+        <!-- Single Information Area -->
+        <div class="col-12 col-md-4">
+          <div class="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="100ms">
+            <div class="contact-icon">
+              <i class="icon_pin_alt"></i>
+            </div>
+            <h5>Address</h5>
+            <h6>
+120 Raymond Rd, Gujarat</h6>
+          </div>
+        </div>
+
+        <!-- Single Information Area -->
+        <div class="col-12 col-md-4">
+          <div class="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="500ms">
+            <div class="contact-icon">
+              <i class="icon_phone"></i>
+            </div>
+            <h5>Phone</h5>
+            <h6>+(91)9909941013</h6>
+          </div>
+        </div>
+
+        <!-- Single Information Area -->
+        <div class="col-12 col-md-4">
+          <div class="single-information-area text-center mb-100 wow fadeInUp" data-wow-delay="1000ms">
+            <div class="contact-icon">
+              <i class="icon_mail_alt"></i>
+            </div>
+            <h5>Email</h5>
+            <h6>response@stratacon.in</h6>
+          </div>
+        </div>
+
+      </div>
+      <div class="c-border"></div>
+    </div>
+  </section>
+  <!-- ##### Contact Information Area End ##### -->
+
+  <!-- ##### Contact Area Start ##### -->
+  <section class="contact-area section-padding-100-0">
+    <div class="container">
+      <div class="row justify-content-between">
+
+        <!-- Contact Content -->
+        <div class="col-12 col-lg-5">
+          <div class="contact-content mb-100">
+            <!-- Section Heading -->
+            <div class="section-heading">
+              <h2><span>Send</span> Message</h2>
+              <img src="img/core-img/decor.png" alt="">
+            </div>
+            <!-- Contact Form Area -->
+            <div class="contact-form-area">
+              <form action="#" method="post">
+                <div class="row">
+                  <div class="col-lg-6">
+                    <input type="text" class="form-control" name="name" placeholder="Your Name">
+                  </div>
+                  <div class="col-lg-6">
+                    <input type="email" class="form-control" name="email" placeholder="Your Email">
+                  </div>
+                  <div class="col-12">
+                    <input type="text" class="form-control" name="subject" placeholder="Your Subject">
+                  </div>
+                  <div class="col-12">
+                    <textarea name="message" class="form-control" cols="30" rows="10" placeholder="Your Message"></textarea>
+                  </div>
+                  <div class="col-12">
+                    <button type="submit" class="btn famie-btn">Send Message</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <!-- Contact Maps -->
+        <div class="col-lg-6">
+          <div class="contact-maps mb-100">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28313.28917392649!2d-88.2740948914384!3d41.76219337461615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880efa1199df6109%3A0x8a1293b2ae8e0497!2sE+New+York+St%2C+Aurora%2C+IL%2C+USA!5e0!3m2!1sen!2sbd!4v1542893000723"
+              allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
   <!-- ##### Footer Area Start ##### -->
        <!-- ##### Footer Area Start ##### -->
        <footer class="footer-area">

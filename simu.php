@@ -169,9 +169,9 @@
                       </li>
                       <li><a href="insight.php">Insights</a></li>
                       <li><a href="leader.php">Leader</a></li>
-                      <li><a href="registration.php">Sign In</a></li>
+                      <li><a href="index.php">Logout</a></li>
 
-                      <i class='far fa-user' style='font-size:20px;color:black'></i>
+                      <i class='far fa-user' style='font-size:15px;color:black'></i>
                     </ul>
                       
                     <!--Cart Icon --
@@ -206,31 +206,29 @@
       <!-- ##### Header Area End ##### --> 
            <br /><br />  
            <div class="container" style="width:700px;">  
-                <h3 align="center">Fill Following details...</h3>  
                 <br />  <div class="form">
         <!-- <p>Hey, <?php echo $_SESSION['username']; ?>!</p> -->
-        <p><a href="logout.php">Logout</a></p>
     </div>
                 <div class="table-responsive">  
-                     <div align="right">  
-                          <button type="button" name="add" id="add" data-toggle="modal" data-target="#add_data_Modal" class="btn btn-warning">Click here To add</button>  
+                     <div style="text-align:center">  
+                          <button type="button" name="add" id="add" data-toggle="modal" data-target="#add_data_Modal" class="btn btn-warning">Click To Play</button>  
                      </div>  
                      <br />  
                      <div id="employee_table">  
                           <table class="table table-bordered">  
                                <tr>  
-                                    <th width="70%"><h4>Employee Name</h4></th>  
-                                    <th width="15%"><h4>Edit</h4></th>  
-                                    <th width="15%"><h4>View</h4></th>  
+                                    <th width="70%"><h4><b>User Name</b></h4></th>  
+                                    <th width="15%"><h4><b>Edit</b></h4></th>  
+                                    <th width="15%"><h4><b>View</b></h4></th>  
                                </tr>  
                                <?php  
                                while($row = mysqli_fetch_array($result))  
                                {  
                                ?>  
                                <tr>  
-                                    <td><?php echo $row["name"]; ?></td>  
-                                    <td><input type="button" name="edit" value="Edit" id="<?php echo $row["id"]; ?>" class="btn btn-info btn-xs edit_data" /></td>  
-                                    <td><input type="button" name="view" value="view" id="<?php echo $row["id"]; ?>" class="btn btn-info btn-xs view_data" /></td>  
+                                    <td><h4><?php echo $row["name"]; ?></h4></td>  
+                                    <td><h4><input type="button" name="edit" value="Edit" id="<?php echo $row["id"]; ?>" class="btn btn-info btn-xs edit_data" /></h4></td>  
+                                    <td><h4><input type="button" name="view" value="view" id="<?php echo $row["id"]; ?>" class="btn btn-info btn-xs view_data" /></h4></td>  
                                </tr>  
                                <?php  
                                }  
@@ -244,8 +242,9 @@
       <div class="modal-dialog">  
            <div class="modal-content">  
                 <div class="modal-header">  
-                     <button type="button" class="close" data-dismiss="modal">&times;</button>  
-                     <h4 class="modal-title"><h4>Employee Details</h4>  
+                     <h4 class="modal-title"><h4>User Details</h4>                      
+                      <button type="button" class="close" data-dismiss="modal">&times;</button>  
+
                 </div>  
                 <div class="modal-body" id="employee_detail">  
                 </div>  
@@ -259,29 +258,123 @@
       <div class="modal-dialog">  
            <div class="modal-content">  
                 <div class="modal-header">  
-                     <button type="button" class="close" data-dismiss="modal">&times;</button>  
-                     <h4 class="modal-title">Fill the Data</h4>  
+                     <h4 class="modal-title">Fill the Data</h4>                  
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>  
+
                 </div>  
                 <div class="modal-body">  
-                     <form method="post" id="insert_form">  
-                          <label><h4>Enter Employee Name</h4></label>  
-                          <input type="text" name="name" id="name" class="form-control" />  
-                          <br />  
-                          <label><h4>Enter Employee Address<h4></label>  
-                          <textarea name="address" id="address" class="form-control"></textarea>  
-                          <br />  
-                          <label><h4>Select Gender</h4></label>  
-                          <select name="gender" id="gender" class="form-control">  
-                               <option value="Male"><h4>Male</h4></option>  
-                               <option value="Female"><h4>Female</h4></option>  
+                     <form method="post" id="insert_form">                         
+                       <label><h5>Select Industries</h5></label>  
+ 
+                     <select name="gender" id="gender" class="form-control">  
+                               <option value="Male"><h4>Advertising</h4></option>  
+                               <option value="Female"><h4>Aerospace/Defense</h4></option>  
+                               <option value="Female"><h4>Air Transport</h4></option>  
+                               <option value="Female"><h4>Apparel</h4></option>  
+                               <option value="Female"><h4>Auto & Truck</h4></option>  
+                               <option value="Female"><h4>Bank (Money Center)</h4></option>  
+                               <option value="Female"><h4>Auto Parts</h4></option>  
+                               <option value="Female"><h4>Auto Parts</h4></option>  
+                               <option value="Female"><h4>Auto Parts</h4></option>  
+                              
+
                           </select>  
                           <br />  
-                          <label><h4>Enter Designation</h4></label>  
-                          <input type="text" name="designation" id="designation" class="form-control" />  
+                          <label><h5>Select Total Revenue</h5></label>  
+ 
+                     <select name="gender" id="gender" class="form-control">  
+                               <option value="Male"><h4>upto 1 Crore </h4></option>  
+                               <option value="Female"><h4>1 Crore To 10 Crore </h4></option>  
+                               <option value="Female"><h4>11  Crore To 50  Crore </h4></option>  
+                               <option value="Female"><h4>50  Crore To 150  Crore </h4></option>  
+                               <option value="Female"><h4>150  Crore To Above </h4></option>  
+
+
+
+                          </select>  
                           <br />  
-                          <label><h4>Enter Age</h4></label>  
-                          <input type="text" name="age" id="age" class="form-control" />  
+
+                          <label><h5> COGS</h5></label>  
+                          <select name="gender" id="gender" class="form-control">  
+                               <option value="Male"><h4>74.19%</h4></option>  
+                               <option value="Female"><h4>79.67%</h4></option>  
+                               <option value="Female"><h4>69.68%</h4></option>  
+                               <option value="Female"><h4>89.51%</h4></option>  
+                               <option value="Female"><h4>69.68%</h4></option>  
+                               <option value="Female"><h4>69.68%</h4></option>  
+                               <option value="Female"><h4>69.68%</h4></option>  
+                               <option value="Female"><h4>69.68%</h4></option>  
+
+                              
+
+                          </select>  
+
+
+                          <label><h5>Enter Manpower Magagerial</h5></label>  <p>(should be 30%) </p>
+                          <input type="text" name="address" id="address" class="form-control"/>
+                          <br /> 
+                          <label><h5>Enter Manpower Executive</h5></label>  <p>(should be 70%) </p>
+                          <input type="text" name="address" id="address" class="form-control"/>
                           <br />  
+
+                         
+
+                          <label><h5>Gross Margin</h5></label>  
+                          <input type="text" name="address" id="address" class="form-control"/>
+
+                          <label><h5>Revenue Per Employee</h5></label>  
+                          <input type="text" name="address" id="address" class="form-control"/>
+
+
+
+                          <label><h5>Geographical Presence</h5></label>  
+                          <select name="gender" id="gender" class="form-control">  
+                               <option value="Male"><h4>State Wide</h4></option>  
+                               <option value="Female"><h4>Country Wide</h4></option>  
+                               <option value="Female"><h4>Multi State</h4></option>  
+                               <option value="Female"><h4>Multi Country </h4></option>  
+
+                          </select>  
+                          <br />  
+
+
+                          <label><h5>Market structure</h5></label>  
+                          <select name="gender" id="gender" class="form-control">  
+                               <option value="Male"><h4>High</h4></option>  
+                               <option value="Female"><h4>Medium</h4></option>  
+                               <option value="Female"><h4>Low</h4></option>  
+
+                          </select>  
+                          <br />  
+
+                               
+                          <label><h5>Product/Market Fit</h5></label>  
+                          <input type="text" name="address" id="address" class="form-control"/>
+
+                          <label><h5>Competitors with >80% Fit</h5></label>  
+                          <input type="text" name="address" id="address" class="form-control"/>
+
+                          <label><h5>Market Spend Last Year</h5></label>  
+                          <input type="text" name="address" id="address" class="form-control"/>
+
+                          <label><h5>Market Spend Budgeted</h5></label>  
+                          <input type="text" name="address" id="address" class="form-control"/>
+
+                          <label><h5>Budget Spend on HR  & EE (Employee Enagement)</h5></label>  
+                          <input type="text" name="address" id="address" class="form-control"/>
+
+                          
+
+                          <label><h5>Investment in Capital Or New Business And </h5></label>  
+                          <select name="gender" id="gender" class="form-control">  
+                               <option value="Male"><h4>Yes</h4></option>  
+                               <option value="Female"><h4>No</h4></option>  
+                               
+                          </select>  
+                          <br />  
+
+
+                          
                           <input type="hidden" name="employee_id" id="employee_id" />  
                           <input type="submit" name="insert" id="insert" value="Insert" class="btn btn-success" />  
                      </form>  
