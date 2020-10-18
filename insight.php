@@ -270,7 +270,7 @@
                             <figure class="m-0 effect-oscar">
                                 <img src="images/sem.jpg" style="height:320px" alt="">
                                 <figcaption>
-                                    <h3></h3>
+                                    <h3>BUSINESS INTELLIGENCE</h3>
                                     <a class="link icon-pentagon" href="sem.php"><i class="fa fa-link"></i></a>
                                     <a class="view icon-pentagon" data-rel="prettyPhoto" href="images/sem.jpg"><i
                                             class="fa fa-search"></i></a>

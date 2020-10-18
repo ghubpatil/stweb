@@ -227,20 +227,20 @@
         <!-- About Us Thumbnail -->
         <div class="col-12 col-lg-6">
           <div class="about-us-thumbnail mb-100">
-            <img src="img/bg-img/i1.jpg" style="height:300px" alt="">
+            <img src="img/bg-img/i1.jpg" alt="">
           </div>
         </div>
 
         <!-- About Us Content -->
         <div class="col-12 col-lg-6">
-          <div class="about-us-content mb-100" style="text-align:justify;" >
+          <div class="about-us-content mb-100">
             <!-- Section Heading -->
             <div class="section-heading">
               <p>Industries Process</p>
               <h2><span>Healthcare </span> &amp; Pharmaceuticals</h2>
             </div>
-            <p>India is the largest provider of generic drugs globally. Indian pharmaceutical sector industry supplies over 50 per cent of global demand for various vaccines, 40 per cent of generic demand in the US and 25 per cent of all medicine in UK.</p>
-            <a href="industry1.php" class="btn famie-btn mt-30">Read More</a>
+            <p>.....................................................................................................</p>
+            <a href="#" class="btn famie-btn mt-30">Read More</a>
           </div>
         </div>
 
@@ -253,155 +253,9 @@
       <div class="row align-items-center">
 
         <!-- About Us Thumbnail -->
-        
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Capital projects  </span> &amp; Infrastructure</h2>
-
-            </div><p>Our Infrastructure practice provides consultancy services relating to demand assessment, traffic studies, entry strategies, commercial due diligence, bid advisory and project finance across transportation sectors (roads, ports, airports, railways, logistics, metrorail, BRTS), industrial infrastructure (SEZs, large area developments, commercial development) and tourism.</p>
-            <a href="industry2.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
         <div class="col-12 col-lg-6">
           <div class="about-us-thumbnail mb-100">
-            <img src="img/bg-img/i2.jpg"  style="height:300px"  alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="img/bg-img/power.jpg" style="height:300px"  alt="">
-          </div>
-        </div>
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Power  </span> &amp; Electronics</h2>
-
-            </div><p>The global power electronics market size was valued at USD 32.33 billion in 2016. The increasing demand for energy-efficient and battery-powered devices is likely to propel the global market over the forecast period.</p>
-            <a href="industry3.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Media, Telecom  </span> &amp; Entertainment</h2>
-
-            </div><p>Deloitte’s Kevin Westcott joins host Hanish Patel to share his insights on what’s ahead for the telecommunications media & entertainment industry</p>
-            <a href="industry4.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/tele.jpg"  style="height:300px"  alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/cog.jpg" style="height:300px"  alt="">
-          </div>
-        </div>
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Consumer  </span> &amp; Goods</h2>
-
-            </div><p>A final good or consumer good is a commodity that is used by the consumer to satisfy current wants or needs, rather than to produce another good.</p>
-            <a href="industry5.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>Retail  </span> &amp; Ecommerce</h2>
-
-            </div>
-            <p>The E-commerce market in India is also set to grow at a CAGR of 30% for gross merchandise value to reach $200 bn by 2026, and have a market penetration of 12% compared to 2% currently. India is largely an unorganized retail market, contributing 88% to the total retail sector in India.</p>
-            <a href="industry6.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/ret.jpg"  style="height:300px"  alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <img src="images/travel.jpg" style="height:300px"  alt="">
+            <img src="img/bg-img/i2.jpg" alt="">
           </div>
         </div>
 
@@ -411,50 +265,17 @@
             <!-- Section Heading -->
             <div class="section-heading">
               <p>Industries Process</p>
-              <h2><span>Travel Transport </span> &amp; Logistics </h2>
+              <h2><span>capital projects  </span> &amp; infrastructure</h2>
 
             </div>
             <p>.....................................................................................................</p>
-            <a href="industry7.php" class="btn famie-btn mt-30">Read More</a>
+            <a href="#" class="btn famie-btn mt-30">Read More</a>
           </div>
         </div>
 
       </div>
     </div>
   </section>
-
-
-
-  <section class="about-us-area">
-    <div class="container">
-      <div class="row align-items-center">
-
-        <!-- About Us Thumbnail -->
-        
-
-        <!-- About Us Content -->
-        <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
-            <!-- Section Heading -->
-            <div class="section-heading">
-              <p>Industries Process</p>
-              <h2><span>SEM  </span> &amp; Consulting</h2>
-
-            </div>
-            <p>.....................................................................................................</p>
-            <a href="industry8.php" class="btn famie-btn mt-30">Read More</a>
-          </div>
-        </div>
-        <div class="col-12 col-lg-6">
-          <div class="about-us-thumbnail mb-100">
-            <img src="images/semc.jpg"  style="height:300px"  alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-
 
 
   <section class="about-us-area">
@@ -464,62 +285,27 @@
         <!-- About Us Thumbnail -->
         <div class="col-12 col-lg-6">
           <div class="about-us-thumbnail mb-100">
-            <img src="images/s.jpg" style="height:300px"  alt="">
+            <img src="img/bg-img/power.jpg" alt="">
           </div>
         </div>
 
         <!-- About Us Content -->
         <div class="col-12 col-lg-6">
-        <div class="about-us-content mb-100"style="text-align:justify;" >
+          <div class="about-us-content mb-100">
             <!-- Section Heading -->
             <div class="section-heading">
               <p>Industries Process</p>
-              <h2><span>Start-up </span> &amp; Consulting  </h2>
+              <h2><span>Power  </span> &amp; Electronics</h2>
 
             </div>
             <p>.....................................................................................................</p>
-            <a href="industry9.php" class="btn famie-btn mt-30">Read More</a>
+            <a href="#" class="btn famie-btn mt-30">Read More</a>
           </div>
         </div>
 
       </div>
     </div>
   </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       <!-- ##### Footer Area Start ##### -->
       <footer class="footer-area">
         <!-- Main Footer Area -->
